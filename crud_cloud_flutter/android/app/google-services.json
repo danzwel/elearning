@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853240139602",
+    "project_id": "mobile-crud-daniel",
+    "storage_bucket": "mobile-crud-daniel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853240139602:android:5310c7a167c0b123e3348b",
+        "android_client_info": {
+          "package_name": "com.example.crud_cloud_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwrUSD7MFL9GiQ-R_3zA4F9MXlZl6J4Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
