@@ -1,16 +1,45 @@
-# crud_local_flutter
+# CRUD Local Flutter
 
-A new Flutter project.
+## Deskripsi
+Aplikasi mobile berbasis **Flutter** yang menerapkan konsep **CRUD (Create, Read, Update, Delete)** menggunakan **penyimpanan lokal** (offline).
 
-## Getting Started
+Aplikasi ini dibuat untuk memenuhi tugas **Pemrograman Mobile**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Aplikasi
+- Create data (tambah data)
+- Read data (menampilkan data)
+- Update data (edit data)
+- Delete data (hapus data)
+- Data tersimpan secara **lokal**
+- Bisa dijalankan **tanpa koneksi internet**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi yang Digunakan
+- Flutter
+- Dart
+- Penyimpanan Lokal (Local Storage)
+
+---
+
+## Struktur Folder
+lib/
+│
+├── main.dart
+├── db.dart
+└── model.dart
+
+
+---
+
+## Cara Menjalankan Aplikasi
+```bash
+flutter pub get
+flutter run
+
+
+Kesimpulan
+
+Aplikasi ini berhasil menerapkan konsep CRUD menggunakan penyimpanan lokal pada Flutter dan dapat berjalan tanpa koneksi internet.
